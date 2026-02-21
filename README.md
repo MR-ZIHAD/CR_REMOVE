@@ -7,6 +7,10 @@
 ## 👇COMMAND👇
 
 ```
+pkg update -y && pkg upgrade -y
+pkg install -y python ffmpeg
+termux-setup-storage
+
 rm -rf CR_REMOVE
 
 git clone https://github.com/MR-ZIHAD/CR_REMOVE
