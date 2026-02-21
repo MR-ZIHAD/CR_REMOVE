@@ -1,1 +1,18 @@
-# CR_REMOVE
+# POWERFUL VIDEO COPYRIGHT REMOVER
+
+<p align="center">
+  <img src="https://github.com/MR-ZIHAD/CR_REMOVE/blob/main/Screenshot_2026_0221_110939.png">
+</p>
+
+## 👇COMMAND👇
+
+```
+rm -rf CR_REMOVE
+
+git clone https://github.com/MR-ZIHAD/CR_REMOVE
+
+cd CR_REMOVE
+
+python vTOOL.py
+
+```
